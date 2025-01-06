@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6fFooxj3R7x" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Odoo CRM</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Odoo_CRM_ORG">
+    <organization identifier="Odoo_CRM_ORG">
+      <title>Odoo CRM</title>
+      <item identifier="Odoo_CRM_SCO" isvisible="true" identifierref="__6fFooxj3R7x_RES">
+        <title>Odoo CRM</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6fFooxj3R7x_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6fP5eh7MzZv.png" />
+      <file href="story_content/69Z2Co64kSr_44100_48_0.mp3" />
+      <file href="story_content/5zwmiLaeJnA_captions.js" />
+      <file href="mobile/6k94acjjTum_P_0_0_1366_48.png" />
+      <file href="mobile/6WZDmRp9bY2_P_0_0_2048_1011.png" />
+      <file href="mobile/6EYpGajeZZr.png" />
+      <file href="story_content/5wbHB3tdhGO_44100_48_0.mp3" />
+      <file href="story_content/5iDyCmHZi94_captions.js" />
+      <file href="mobile/6YveXYyOdwY_P_0_0_2048_1011.png" />
+      <file href="mobile/6DoBRk4mflG.png" />
+      <file href="story_content/5qZwrGL4lii_44100_48_0.mp3" />
+      <file href="story_content/6ldO4DLYpUN_captions.js" />
+      <file href="mobile/5WMPjFaZSY8.png" />
+      <file href="mobile/5o0LD5RxqPO.png" />
+      <file href="mobile/5xCM8CbDaAG.png" />
+      <file href="mobile/5pbmCChTOEt.png" />
+      <file href="story_content/5kMfUZWmV54_44100_48_0.mp3" />
+      <file href="story_content/6WiNlxo6Hxb_captions.js" />
+      <file href="story_content/5ktOTAPPUMT_44100_48_0.mp3" />
+      <file href="mobile/6B67ONlR20L_P_0_0_2048_1011.png" />
+      <file href="mobile/5ceaFUKg9eZ.png" />
+      <file href="story_content/6DVLyW2zYIy_44100_48_0.mp3" />
+      <file href="story_content/6oHh1aVfx6m_captions.js" />
+      <file href="mobile/63qi1thAfdb_P_0_0_2048_1011.png" />
+      <file href="mobile/69GcvpLXXRT.png" />
+      <file href="story_content/64jhf2CFJ4W_44100_48_0.mp3" />
+      <file href="story_content/6UV5zy7SF0G_captions.js" />
+      <file href="mobile/5oVmCA6h8mH_P_0_0_2048_1011.png" />
+      <file href="mobile/6msebmCbojO.png" />
+      <file href="story_content/6ctK7Q0WlTv_44100_48_0.mp3" />
+      <file href="story_content/6K1Ky45aEOM_captions.js" />
+      <file href="mobile/6crpbrwKJ3G.png" />
+      <file href="mobile/6C8RhSkWcde.png" />
+      <file href="mobile/6EAVgN65HOu.png" />
+      <file href="story_content/5szvSRs19OK_44100_48_0.mp3" />
+      <file href="story_content/5wBWBET4bn4_captions.js" />
+      <file href="mobile/6SE1u4X5AYw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5lBr9KmK47E.js" />
+      <file href="html5/data/js/5quoqnPiWW0.js" />
+      <file href="html5/data/js/5qzGpqfmYcO.js" />
+      <file href="html5/data/js/5VKncKMxIGl.js" />
+      <file href="html5/data/js/5WEIPUpgXcw.js" />
+      <file href="html5/data/js/5WetPYGE5UV.js" />
+      <file href="html5/data/js/6013FeNHnlP.js" />
+      <file href="html5/data/js/61qmH6qODtv.js" />
+      <file href="html5/data/js/6EyhtndtslF.js" />
+      <file href="html5/data/js/6hf8OOATCeV.js" />
+      <file href="html5/data/js/6HM3ULMsV3W.js" />
+      <file href="html5/data/js/6JnCHK9zTZh.js" />
+      <file href="html5/data/js/6Kk51qk91oV.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
